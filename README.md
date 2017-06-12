@@ -1,0 +1,3 @@
+# RxJavaRetrofit
+一个网络请求库 
+结合JAVA_8和ButterKnife以及RXjava和Retrofit,OKhttp.并对其进行了封装 使得网络请求更加简单
